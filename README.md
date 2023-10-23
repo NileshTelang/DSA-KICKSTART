@@ -1,5 +1,4 @@
-# DSA-KICKSTART
-# Official DSA Bootcamp by GDSC ICOER
+# DSA-KICKSTART - Official DSA Bootcamp by GDSC ICOER
 
 Welcome to the Official Data Structures and Algorithms (DSA) Bootcamp organized by GDSC ICOER! As the Development Lead, I'm excited to have you on board as we embark on a journey to learn and grow in the world of DSA.
 
