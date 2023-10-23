@@ -30,6 +30,7 @@ To get started with the bootcamp, follow these steps:
 
 ```bash
 git clone https://github.com/your-username/official-dsa-bootcamp.git
+```
 
 3. **Explore the curriculum**: Check the [Curriculum](#curriculum) section for details on the topics covered in the bootcamp.
 
@@ -67,4 +68,3 @@ If you have any questions or need assistance, feel free to reach out to me, the 
 - Email: [nileshtelang07n5@example.com]
 
 Let's learn, grow, and excel in the world of Data Structures and Algorithms together! Happy coding!
-```
