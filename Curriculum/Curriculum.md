@@ -46,6 +46,6 @@
 - **Topic 15:** DFS Algorithms
   - Volunteer: Pranav Patil
 - **Topic 16:** Interview Questions Approaches + Coding Tests
-  - Volunteer: BE Students
+  - Volunteer: BE Students Batch 2024
 
 This curriculum is designed to provide a comprehensive understanding of data structures and algorithms over the course of 8 days. 
