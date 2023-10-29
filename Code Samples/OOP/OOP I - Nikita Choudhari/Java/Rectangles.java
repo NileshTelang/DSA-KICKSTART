@@ -21,7 +21,7 @@ class Circle extends Shape {
     }
 }
 
-public class Main {
+public class Rectangles {
     public static void main(String[] args) {
         Rectangle rect = new Rectangle();
         rect.length = 5;

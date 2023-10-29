@@ -1,9 +1,9 @@
 
-class dev_team {
+class devteam {
     String name;
     String dept;
 
-    public dev_team(String name, String dept) {
+    public devteam(String name, String dept) {
         this.name = name;
         this.dept = dept;
     }
@@ -35,9 +35,9 @@ class design_team {
     }
 }
 
-public class Polymorphism_in_class_Methods {
+public class Polymorphism {
   public static void main(String[] args) {
-      dev_team dev1 = new dev_team("Nilesh Telang", "Computer");
+      devteam dev1 = new devteam("Nilesh Telang", "Computer");
       design_team designer1 = new design_team("Anshusingh Rajput", "ENTC");
 
       dev1.introduce();
