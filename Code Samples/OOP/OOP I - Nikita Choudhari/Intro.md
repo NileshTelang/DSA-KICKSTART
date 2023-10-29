@@ -1,3 +1,4 @@
+
 # Introduction to Object-Oriented Programming (OOP)
 
 Object-Oriented Programming (OOP) is a programming paradigm that revolves around the concept of "objects," which can contain data and code. It emphasizes the organization of code into a collection of manageable, reusable components. OOP facilitates the creation of modular programs and enables the building of software systems that are more scalable and easier to maintain.
@@ -29,3 +30,4 @@ Encapsulation is a fundamental principle of OOP that involves bundling the data 
 ## Inheritance
 
 Inheritance is a feature of OOP that allows a class to inherit properties and behaviors from another class, known as the superclass or base class. The class that inherits these properties is referred to as the subclass or derived class. Inheritance promotes code reusability and enables the creation of a hierarchical class structure.
+

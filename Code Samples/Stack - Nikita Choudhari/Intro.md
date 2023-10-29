@@ -1,3 +1,4 @@
+
 # Stack Data Structure
 
 A **stack** is a linear data structure that follows the Last-In-First-Out (LIFO) principle, meaning the last element added to the stack is the first one to be removed. It is commonly used to manage data in a way that supports two primary operations: push (adding an item to the stack) and pop (removing the top item from the stack).
@@ -38,3 +39,5 @@ Stacks find applications in various computer science and software engineering sc
 - **Undo Mechanisms**: Many software applications implement an undo feature using a stack to keep track of actions.
 - **Backtracking Algorithms**: Stacks are used in backtracking algorithms to store the state of decisions and backtrack when needed.
 - **Browser History**: Web browsers use a stack to manage the history of visited web pages.
+
+

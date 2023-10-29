@@ -1,0 +1,29 @@
+Q1. What is the primary principle that defines a queue data structure?
+Ans1. First-In-First-Out(FIFO)
+
+Q2. Which of the following operations is used to add an element to the rear of a queue?
+Ans2. Enqueue()
+
+Q3. In a queue, if you want to remove and retrieve an element from the front, which operation should you use?
+Ans3. Dequeue()
+
+Q4. Which data structure is typically used to implement a queue with a dynamic size?
+Ans4. Linked List
+
+Q5. What is a double-ended queue(dequeue) primarily used for?
+Ans5. Allowing elements to be added and removed from both ends
+
+Q6. Which of the following is an example of a real-world analogy for a queue?
+Ans6. People waiting in line at a theme park
+
+Q7. What is the time complexity of the enqueue and dequeue operations in a standard queue implemented with an array of size N?
+Ans7. O(1) for both enqueue and dequeue
+
+Q8. Which of the following is NOT a common application of queues?
+Ans8. Depth-first search
+
+Q9. In a circular queue, what happens when the rear pointer reaches the end of the array?
+Ans9. The rear pointer is reset to the beginning.
+
+Q10. What is the purpose of using a circular buffer in implementing a circular queue?
+Ans10. To efficiently utilize memory
